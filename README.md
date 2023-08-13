@@ -1,25 +1,12 @@
 <h1 align="center">Hi! 👋 I'm Artificial-dev</h1>
 
-<p align="center">
-  <a href="https://t.me/ArtificialThinkerr"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
-    </br><code>🎵 I can be critical, never typical
-    Intricate with every syllable, I'm a criminal
-    Intimate, but never political, pretty visual
-    Even if you hate it, I'll make it feel like you're in it, though 🎵</code></p>
 
 # About
-- 🔭 I’m currently working on **Telegram Bots and college Works!**
+
 - - 🌱 I’m currently learning  **Everything I want! 😅**
-- 👯 I’m looking to collaborate on  **A Big Project 😒😑**
-- - 🤔 I’m looking for help with  **ruby**
 - 💬 Ask me about  **Anything  😒🤖😑**
 - - 📫 How to reach me  **[See Here](https://github.com/Artificial-dev#contactme)**
-- ⚡ Fun fact: **I'm a kid**
-# Profile Stats,
 
-![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-fork&show_icons=true&theme=tokyonight)
-
-<h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
 
 # Me On Social
 
