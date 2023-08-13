@@ -26,6 +26,9 @@
 | **Platform** |    Take a look       |
 |------------|---------------------|
 
+
+|   LinkedIn   | <a href="https://www.linkedin.com/in/abhishek-pawar-9441181bb"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+
 |   Gitlab   | <a href="https://gitlab.com/Artificial-dev"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> |
 
 |   Twitter  | <a href="https://twitter.com/Abhishek_P4252"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> |
