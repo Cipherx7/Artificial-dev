@@ -39,7 +39,7 @@
 
 # Contact Me
 
-<a href="https://t.me/Artificialthinkerr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/rootrwc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <details>
   <summary><b>Don't Click Here</b></summary>
